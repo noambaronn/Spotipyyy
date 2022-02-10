@@ -139,3 +139,7 @@ resources/
 .idea/Spotipy.iml
 
 .idea/inspectionProfiles/profiles_settings.xml
+
+.idea/
+
+Extract/__init__.py
