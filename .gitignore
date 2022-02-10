@@ -131,3 +131,11 @@ dmypy.json
 README.md
 
 resources/
+
+.idea/vcs.xml
+
+.idea/modules.xml
+
+.idea/Spotipy.iml
+
+.idea/inspectionProfiles/profiles_settings.xml
